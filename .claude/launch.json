@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Hasi Elektronic Dev",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "C:\\tmp\\hasi-dev.cmd"],
+      "port": 5173
+    }
+  ]
+}

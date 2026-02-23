@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npm run build:*)",
+      "Bash(pkill:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl:*)",
+      "Bash(netstat:*)",
+      "Bash(cmd //c \"cd /d \"\"C:\\\\Users\\\\Admin\\\\OneDrive - Hasi\\\\01_Kunden\\\\Claude\\\\hasi-elektronic\"\" && node node_modules\\\\vite\\\\bin\\\\vite.js --version\")",
+      "Bash(powershell -Command:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
